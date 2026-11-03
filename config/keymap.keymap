@@ -65,10 +65,10 @@
 
         layer_5 {
             bindings = <
-&trans  &kp Q   &kp W   &kp E   &kp R   &kp T   &kp F6        &kp F7        &kp F8        &kp F9        &kp F10    &kp F12
-&trans  &kp A   &kp S   &kp D   &kp F   &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &trans     &trans
-&trans  &kp Z   &kp X   &kp C   &kp V   &trans  &trans        &trans        &trans        &mkp LCLK     &mkp RCLK  &trans   &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans        &trans        &trans        &trans     &trans
+&trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5  &kp F1  &kp F2  &kp F3  &kp F4     &kp F5     &kp DELETE
+&trans  &kp Q         &kp W         &kp E         &kp R         &trans  &kp F6  &kp F7  &kp F8  &kp F9     &kp F10    &trans
+&trans  &kp A         &kp S         &kp D         &kp F         &trans  &trans  &trans  &trans  &mkp LCLK  &mkp RCLK  &trans      &trans  &trans
+&trans  &trans        &trans        &trans        &trans        &trans  &trans  &trans  &trans  &trans     &trans     &trans
             >;
         };
 
